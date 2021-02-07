@@ -1,0 +1,8 @@
+com/example/myapplication/Student.java
+ com.example.myapplication.Student
+com/example/myapplication/SecondActivity.java
+ com.example.myapplication.SecondActivity
+com/example/myapplication/BuildConfig.java
+ com.example.myapplication.BuildConfig
+com/example/myapplication/MainActivity.java
+ com.example.myapplication.MainActivity
